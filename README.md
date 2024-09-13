@@ -1,7 +1,7 @@
 # Sobre mim...
 
 - 👋 Oi, sou @m4r14v1ll4lb4
-- 👀 eu estou interessada em aprender mais aplicativos .
+- 👀 eu estou interessada em aprender mais sobre aplicativos .
 - 🌱 altualmente estou aprendendo html,ccs e JavaScript .
 - 📫 como chegar em mim @villalba.lima@escola.pr.gov.br .
 
